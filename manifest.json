@@ -1,0 +1,74 @@
+[
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "diagnostics-commerce",
+    "path": "video-claw/pr-1045/diagnostics-commerce.png",
+    "sha256": "3327f300a6df02d19f9501fa4c311cc0433705d0fa02e8468eddd0ae5eba74f9",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_path": "docs/test-reports/assets/desktop-diagnostics-2026-11-16/diagnostics-commerce.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "diagnostics-dark",
+    "path": "video-claw/pr-1045/diagnostics-dark.png",
+    "sha256": "7f1b9269626292d78c3a761d6f781f7d879bedb3e48bf97638065b5839babd18",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_path": "docs/test-reports/assets/desktop-diagnostics-2026-11-16/diagnostics-dark.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "diagnostics-desktop",
+    "path": "video-claw/pr-1045/diagnostics-desktop.png",
+    "sha256": "462fa322be163fd20d41c33cc92c78119faae5c9469bca9033d41fc0214d3145",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_path": "docs/test-reports/assets/desktop-diagnostics-2026-11-16/diagnostics-desktop.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "diagnostics-mobile",
+    "path": "video-claw/pr-1045/diagnostics-mobile.png",
+    "sha256": "7f8852dc7d5133101dddc0479e9dbcaec1fbc9d6912aff845c68179fd11054e6",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_path": "docs/test-reports/assets/desktop-diagnostics-2026-11-16/diagnostics-mobile.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "Actual monitoring dashboard",
+    "path": "video-claw/pr-1045/monitoring.png",
+    "sha256": "75c03c3337cdb41a5d9fb8fa179533bafe24b798223222e604661273e083f037",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_path": "docs/test-reports/assets/desktop-diagnostics-live-2026-11-16/monitoring.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1044",
+    "title": "画布模型与发送按钮",
+    "path": "video-claw/pr-1044/canvas-model-controls.png",
+    "sha256": "3c945fa1d91a8bd6d44fb5e5ed3850bc1a0f8df0bbc1faaee7d842c76a8b9688",
+    "source_commit": "6c7fad944758457be975c69fb2caef112bd266da",
+    "source_path": "docs/test-reports/assets/ikvlls-2-9/canvas-model-controls.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1044",
+    "title": "暗色定时任务按钮",
+    "path": "video-claw/pr-1044/schedules-dark.png",
+    "sha256": "480695f5587e275f703c8873038273944540257f777d9d0b12b0bb6699a73f37",
+    "source_commit": "6c7fad944758457be975c69fb2caef112bd266da",
+    "source_path": "docs/test-reports/assets/ikvlls-2-9/schedules-dark.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1040",
+    "title": "Feeling Commerce 默认模型",
+    "path": "video-claw/pr-1040/commerce.png",
+    "sha256": "d8891eeef385ed887091506db1b3081de247fa68fdbc1192715eaa90f3d0b33b",
+    "source_commit": "6d8be5d2f42778a7fc990b0643154f1ce0ea70b5",
+    "source_path": "docs/test-reports/assets/project-default-models-2026-11-16/commerce.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1037",
+    "title": "密码更新成功提示",
+    "path": "video-claw/pr-1037/password-update-success.png",
+    "sha256": "bf72f47fe05d771d508cb67985482983ed1e448b42e6f3b230ed86fd8948d67d",
+    "source_commit": "7370c291217d02fb97d89501f31460e165c11a90",
+    "source_path": "docs/development/assets/password-update-success.png"
+  }
+]
