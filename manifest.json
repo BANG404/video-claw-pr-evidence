@@ -70,5 +70,27 @@
     "sha256": "bf72f47fe05d771d508cb67985482983ed1e448b42e6f3b230ed86fd8948d67d",
     "source_commit": "7370c291217d02fb97d89501f31460e165c11a90",
     "source_path": "docs/development/assets/password-update-success.png"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "日志诊断：上报、失败与重试交互录制",
+    "path": "video-claw/pr-1045/diagnostics-interaction.gif",
+    "sha256": "8106a4e96081aa211597870c2739b1adc7ff805ad986d36a60b3cc445881a4e1",
+    "source_commit": "57f7267bd7f3e74d429a469ffadcb4c9c879424d",
+    "source_paths": [
+      "apps/frontend/src/pages/SettingsDiagnosticsPage.vue",
+      "apps/frontend/scripts/test-diagnostics-settings.mjs"
+    ],
+    "capture": {
+      "type": "continuous-browser-capture",
+      "input_frames": 94,
+      "fps": 10,
+      "width": 1000,
+      "height": 760,
+      "duration_ms": 9360,
+      "encoded_frames": 8,
+      "scenario": "submit → loading → success → submit again → failure → retry → success",
+      "fixture": "Actual Vue component; isolated desktop reportDiagnostics bridge, 1200 ms delay. No live backend upload."
+    }
   }
 ]
