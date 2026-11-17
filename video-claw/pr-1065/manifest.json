@@ -1,41 +1,56 @@
 {
-  "sourceCommit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+  "sourceCommit": "2a96f27d0e84c2176ea03f55134783e90747ed1e",
   "pr": 1065,
   "artifacts": [
     {
-      "path": "video-claw/pr-1065/dashboard-desktop.png",
-      "sha256": "301e78738e4f224e34565fa3477fadccf3851f66f8e136cabcab22a471a1f655",
-      "scenario": "Live dev infrastructure dashboard, desktop",
-      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "path": "video-claw/pr-1065/live-desktop.png",
+      "sha256": "76f21d6a6ae40c0270c05cb685b4d739f81a9b176cd3ae726dc6ed49f8c17b71",
+      "scenario": "Live dev fleet dashboard with environment and host filters",
+      "source_commit": "2a96f27d0e84c2176ea03f55134783e90747ed1e",
       "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
       "capture": {
         "type": "live-grafana-browser",
-        "environment": "dev",
-        "simulation": false
+        "fixture": false,
+        "scenario": "Live dev fleet dashboard with environment and host filters"
       }
     },
     {
-      "path": "video-claw/pr-1065/dashboard-narrow.png",
-      "sha256": "c3fafa2df729c502d1d92a1b1db66646452c95455d5e17eef21056bdf8584797",
-      "scenario": "Live dev infrastructure dashboard, narrow viewport",
-      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "path": "video-claw/pr-1065/live-narrow.png",
+      "sha256": "53fb71e5b07092129c391f027e4a67f4448771bf5922184fad67e2cc4036b252",
+      "scenario": "Live dev fleet dashboard at narrow viewport",
+      "source_commit": "2a96f27d0e84c2176ea03f55134783e90747ed1e",
       "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
       "capture": {
         "type": "live-grafana-browser",
-        "environment": "dev",
-        "simulation": false
+        "fixture": false,
+        "scenario": "Live dev fleet dashboard at narrow viewport"
       }
     },
     {
-      "path": "video-claw/pr-1065/dashboard-logs.png",
-      "sha256": "5f5ce4c7124e2c67c6167d1a85db92f29c1a2ab6ec7e9d8e1e7954568e0c8e2a",
-      "scenario": "Live sanitized Redis operational logs and container health",
-      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "path": "video-claw/pr-1065/live-logs.png",
+      "sha256": "097874e40da8b8b29d5e63d7685343fc5506a21c161869b0287b5fe32a7ecb50",
+      "scenario": "Live process and container inventory with sanitized logs",
+      "source_commit": "2a96f27d0e84c2176ea03f55134783e90747ed1e",
       "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
       "capture": {
         "type": "live-grafana-browser",
-        "environment": "dev",
-        "simulation": false
+        "fixture": false,
+        "scenario": "Live process and container inventory with sanitized logs"
+      }
+    },
+    {
+      "path": "video-claw/pr-1065/filters-interaction.gif",
+      "sha256": "23d5674af99c2beed37624b2c3c1652c1585518fefeb0914236b16bc8a0d29e3",
+      "scenario": "Environment and host filter interaction using isolated two-host/two-environment fixtures",
+      "source_commit": "2a96f27d0e84c2176ea03f55134783e90747ed1e",
+      "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
+      "capture": {
+        "type": "continuous-browser-recording",
+        "fixture": true,
+        "scenario": "Environment and host filter interaction using isolated two-host/two-environment fixtures",
+        "durationMs": 5280,
+        "frames": 33,
+        "boundary": "Synthetic metrics on an isolated datasource; no production enrollment or paid calls"
       }
     }
   ]
