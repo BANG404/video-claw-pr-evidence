@@ -1,0 +1,42 @@
+{
+  "sourceCommit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+  "pr": 1065,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1065/dashboard-desktop.png",
+      "sha256": "301e78738e4f224e34565fa3477fadccf3851f66f8e136cabcab22a471a1f655",
+      "scenario": "Live dev infrastructure dashboard, desktop",
+      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
+      "capture": {
+        "type": "live-grafana-browser",
+        "environment": "dev",
+        "simulation": false
+      }
+    },
+    {
+      "path": "video-claw/pr-1065/dashboard-narrow.png",
+      "sha256": "c3fafa2df729c502d1d92a1b1db66646452c95455d5e17eef21056bdf8584797",
+      "scenario": "Live dev infrastructure dashboard, narrow viewport",
+      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
+      "capture": {
+        "type": "live-grafana-browser",
+        "environment": "dev",
+        "simulation": false
+      }
+    },
+    {
+      "path": "video-claw/pr-1065/dashboard-logs.png",
+      "sha256": "5f5ce4c7124e2c67c6167d1a85db92f29c1a2ab6ec7e9d8e1e7954568e0c8e2a",
+      "scenario": "Live sanitized Redis operational logs and container health",
+      "source_commit": "565268c6aa6050a5d1a638cf14217122fb31e673",
+      "pr": "https://gitee.com/sdtrc/video_claw/pulls/1065",
+      "capture": {
+        "type": "live-grafana-browser",
+        "environment": "dev",
+        "simulation": false
+      }
+    }
+  ]
+}
