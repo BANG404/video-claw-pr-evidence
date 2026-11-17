@@ -1,46 +1,47 @@
 {
-  "sourceCommit": "7f9a5f5f655b33016604d55639908dc47a5a2d7c",
+  "sourceCommit": "cedee649ebf2fa2e14578e49a5e63de940e1fd9e",
   "pr": 1066,
   "pullRequest": "https://gitee.com/sdtrc/video_claw/pulls/1066",
   "artifacts": [
     {
       "path": "video-claw/pr-1066/bilibili-accounts.png",
-      "sha256": "13309f198934dcf197ee52b17351657890964a4e19ef2f8afd8b4d655bfef175",
+      "sha256": "a8ce0b54807737761354be2f526d3f88e17aa4f74433d98962f55fbcd338437d",
       "scenario": "B站账号入口（业务API及原生桥接夹具）"
     },
     {
       "path": "video-claw/pr-1066/kuaishou-accounts.png",
-      "sha256": "33f0268c80d41b33fb3a09021c6e41cbaec83bb3506a1e0a7a1e993ec8b4c46b",
+      "sha256": "b0659e1c1a478b2f98b01ed16ba35ba52f136489ab58abd06d81a2956d1ce20c",
       "scenario": "快手账号入口（业务API及原生桥接夹具）"
     },
     {
       "path": "video-claw/pr-1066/history-platform-filter.png",
-      "sha256": "b553698362a8c472599a57abc63a80f7154ce69fc1e03b70a24f390c256bbaf0",
+      "sha256": "d18612796a4dd98e100e737ebf36e845fcd3c034dbccd3ab7541a8315e3118f3",
       "scenario": "发布历史筛选快手（业务API夹具）"
     },
     {
       "path": "video-claw/pr-1066/creator-connectors.gif",
-      "sha256": "a810323bbc940c7fbbf75a830d113a97d45993946b190d67b7d3fbcb78e8b09b",
-      "scenario": "真实Vue交互：B站、快手添加账号与发布历史筛选（API和原生桥接夹具，无实际登录投稿）"
+      "sha256": "4b898cba197b4415b2dd03955407144e520386e05097e38b639ddafcb1dc8331",
+      "scenario": "真实Vue交互：打开B站、快手账号任务页、返回及发布历史筛选（API和原生桥接夹具，无实际登录投稿）"
     }
   ],
   "boundary": "Real Vue components; business API and native browser bridge fixtures; no live login, uploads, draft saves or publication",
   "rawRecording": {
-    "sha256": "9aa497ff6baf62fd2e4118d5acfbd029b69fd93c01bae1544fcb30b2779dff40",
-    "durationMs": 15200,
+    "sha256": "1bee1813b2fa8da59038faeafeffe104ec3d8cb9531b86b02fdb983e0179e76f",
+    "durationMs": 18560,
     "size": [
       1280,
       800
     ]
   },
   "gif": {
-    "durationMs": 15200,
-    "frames": 152,
-    "distinctDecodedFrames": 117,
+    "durationMs": 18600,
+    "frames": 186,
+    "distinctDecodedFrames": 136,
     "fps": 10,
     "size": [
       960,
       600
     ]
-  }
+  },
+  "browserScenarioSha256": "803e56ef9e678ff1309d24e71a223c42f231e3534c62d7ede3fc62d1e121a49f"
 }
