@@ -143,5 +143,32 @@
       "frames": 33,
       "boundary": "Synthetic metrics on an isolated datasource; no production enrollment or paid calls"
     }
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "Account B diagnostics receipt after signing in",
+    "path": "video-claw/pr-1045/diagnostics-switched-account.png",
+    "sha256": "757cb539e005cdc2c9596f9c0146d7c7f53fd26163166d0a7a72bbe977c65b90",
+    "source_commit": "0ffa71719291ca8d06fb7a51e8c6cf82b1c0c9b6",
+    "source_path": "apps/frontend/scripts/test-diagnostics-settings.mjs",
+    "scenario": "Chromium, real Vue components, fixture authentication and desktop IPC"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "Scoped diagnostics report, failure and retry",
+    "path": "video-claw/pr-1045/diagnostics-account-retry.gif",
+    "sha256": "db509ae8c7843a48abde6660fb4145db6bb275349fbd51ed45d5669626f2cdd6",
+    "source_commit": "0ffa71719291ca8d06fb7a51e8c6cf82b1c0c9b6",
+    "source_path": "apps/frontend/scripts/test-diagnostics-settings.mjs",
+    "scenario": "Chromium, real Vue components, fixture authentication and desktop IPC"
+  },
+  {
+    "pr": "https://gitee.com/sdtrc/video_claw/pulls/1045",
+    "title": "Switch accounts and submit a scoped diagnostics report",
+    "path": "video-claw/pr-1045/diagnostics-account-switch.gif",
+    "sha256": "dcf76d3fa99e1c8387d822afca1517c02f3c53eed8916fb5b302a38274801b0a",
+    "source_commit": "0ffa71719291ca8d06fb7a51e8c6cf82b1c0c9b6",
+    "source_path": "apps/frontend/scripts/test-diagnostics-settings.mjs",
+    "scenario": "Chromium, real Vue components, fixture authentication and desktop IPC"
   }
 ]
