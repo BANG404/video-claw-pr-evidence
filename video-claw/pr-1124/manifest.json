@@ -1,0 +1,21 @@
+{
+  "sourceCommit": "7beabdc2203ed32e8a3666a974bf300f8dc4340c",
+  "pr": 1124,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1124/reference-ready.png",
+      "sha256": "a5f1090b454c354c26f3f8193c6c752e775529f136fc08a934cff0dcbf91e039",
+      "scenario": "参考图完成后文本模型因项目预算不足终止"
+    },
+    {
+      "path": "video-claw/pr-1124/project-budget-exceeded.png",
+      "sha256": "d739b0d151c137abb11de00e83f9de0ce14958898400685b009bafde279a02e2",
+      "scenario": "参考图完成后文本模型因项目预算不足终止"
+    },
+    {
+      "path": "video-claw/pr-1124/project-budget-exceeded.gif",
+      "sha256": "3b315d99aec7fc17b771fe3b769daf9ce401e51e32c3651445915f3cbb7a639d",
+      "scenario": "参考图完成后文本模型因项目预算不足终止"
+    }
+  ]
+}
