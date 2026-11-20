@@ -1,0 +1,26 @@
+{
+  "sourceCommit": "b497e513b78a25189e742a0b591c0110b41979de",
+  "pr": 1126,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1126/project-budget.png",
+      "sha256": "f58b487fe1e2dcb1d49a99056ee7122ffe896fdd96541bedf1018ed085ad6ed3",
+      "scenario": "同一对话区分项目预算、成员额度与随后成功的新请求"
+    },
+    {
+      "path": "video-claw/pr-1126/member-limit.png",
+      "sha256": "fb3776bebe9ecb1c64354132dbe54d52659f29966ee388f82afee4254ebca5f0",
+      "scenario": "同一对话区分项目预算、成员额度与随后成功的新请求"
+    },
+    {
+      "path": "video-claw/pr-1126/retry-completed.png",
+      "sha256": "64391b522e92298672ba0533d888ef0b5f1c474a6a1d17bfe34eed688060cbb1",
+      "scenario": "同一对话区分项目预算、成员额度与随后成功的新请求"
+    },
+    {
+      "path": "video-claw/pr-1126/agent-credit-retry.gif",
+      "sha256": "9e0dfa93201af1aff9775eefeb02cb1f60cd8cd7a4a267045066868b8dab8282",
+      "scenario": "同一对话区分项目预算、成员额度与随后成功的新请求"
+    }
+  ]
+}
