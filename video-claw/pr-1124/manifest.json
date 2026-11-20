@@ -1,21 +1,26 @@
 {
-  "sourceCommit": "7beabdc2203ed32e8a3666a974bf300f8dc4340c",
+  "sourceCommit": "187369ac4505591750afb1f8200720114cd3006e",
   "pr": 1124,
   "artifacts": [
     {
       "path": "video-claw/pr-1124/reference-ready.png",
-      "sha256": "a5f1090b454c354c26f3f8193c6c752e775529f136fc08a934cff0dcbf91e039",
-      "scenario": "参考图完成后文本模型因项目预算不足终止"
+      "sha256": "00f09e6c2d53a89966f95c1169e23f7a0f1880f99716e7cd76713befcdc233d3",
+      "scenario": "参考图完成后，首帧视频未提交且文本模型被项目预算拒绝"
+    },
+    {
+      "path": "video-claw/pr-1124/video-not-submitted.png",
+      "sha256": "4b0631811dd3683620286cb16a000a2649049be5c86df58933fc24b955fc8c8f",
+      "scenario": "参考图完成后，首帧视频未提交且文本模型被项目预算拒绝"
     },
     {
       "path": "video-claw/pr-1124/project-budget-exceeded.png",
-      "sha256": "d739b0d151c137abb11de00e83f9de0ce14958898400685b009bafde279a02e2",
-      "scenario": "参考图完成后文本模型因项目预算不足终止"
+      "sha256": "a600564c4517242f4e5a95b352265990c0ee353ff4e3cf552b97a32aea70e749",
+      "scenario": "参考图完成后，首帧视频未提交且文本模型被项目预算拒绝"
     },
     {
       "path": "video-claw/pr-1124/project-budget-exceeded.gif",
-      "sha256": "3b315d99aec7fc17b771fe3b769daf9ce401e51e32c3651445915f3cbb7a639d",
-      "scenario": "参考图完成后文本模型因项目预算不足终止"
+      "sha256": "e85558e1942d381592b512ea70d65d4cb12c33b1b0f4f4862b08906c7093dadf",
+      "scenario": "参考图完成后，首帧视频未提交且文本模型被项目预算拒绝"
     }
   ]
 }
