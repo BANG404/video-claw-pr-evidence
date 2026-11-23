@@ -1,0 +1,46 @@
+{
+  "sourceCommit": "2fc3a0c6adf8512727cae9f01734fc7b420c6bf1",
+  "pr": 1151,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1151/ikxcri-skills.png",
+      "sha256": "416037e12ae9a5d8f385f9690db5341927eb4ae874aebbf0d464c4aa265c1fab",
+      "scenario": "技能库页头和空状态导入"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-skill-drawer.png",
+      "sha256": "acec0553c60cf0186d5c5d7b843a0be3d59b0df148c67697580017cee9ec4c3d",
+      "scenario": "技能库页头和空状态导入"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-skill-importing.png",
+      "sha256": "bce9ea522e6dbd578e50ff0192f848cf85ae1e47ca742c55dfa870585d2c8630",
+      "scenario": "技能库页头和空状态导入"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-skill-manual.png",
+      "sha256": "64adf275f2d205029898557dcfe623da301f3ddaaec378d62321ce19f8c041f9",
+      "scenario": "浏览器手动输入技能目录"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-assets.png",
+      "sha256": "738ec3a4ea5e332b37e0e8e0409b94b21ae8ddfa9c9c4ef4674560c018ff23f5",
+      "scenario": "项目素材选择器与拖入提示"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-assets-drop.png",
+      "sha256": "b9175cb4f90401486e7ae791d5250ba6c48a429f781e553927ed47700b90c504",
+      "scenario": "项目素材选择器与拖入提示"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-video-node.png",
+      "sha256": "a05508769bc0a500c212e5c67eddb81a3b8e877039fbe8cfd1511b2df784014d",
+      "scenario": "视频节点选择本地视频"
+    },
+    {
+      "path": "video-claw/pr-1151/ikxcri-skill-import.gif",
+      "sha256": "31a7fb5474b6b0e8c85bfd4bc46cf9dee9492d4b35ffe5f24bd2b8f34ba33ae0",
+      "scenario": "技能库页头和空状态导入"
+    }
+  ]
+}
