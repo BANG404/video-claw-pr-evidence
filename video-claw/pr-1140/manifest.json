@@ -1,26 +1,26 @@
 {
-  "sourceCommit": "ba68ec7fd1e72ad89c6d39145fbcf417a7975a40",
+  "sourceCommit": "3698d266150ba097df850577e3a429be612fa4ab",
   "pr": 1140,
   "artifacts": [
     {
-      "path": "video-claw/pr-1140/trend-light-30.png",
-      "sha256": "6e784b028ba974d35339ae454ada746500c164074edef6b8f08ec1e77cfcb893",
-      "scenario": "浅色下查看并操作消费趋势"
+      "path": "video-claw/pr-1140/refund-scatter-light-30.png",
+      "sha256": "70c49f3d86af91d4fc00cd065281a83d74d3f061ff5d59ec611565a3154e82f7",
+      "scenario": "浅色消费趋势、悬停金额和周期切换"
     },
     {
-      "path": "video-claw/pr-1140/trend-dark-30.png",
-      "sha256": "14b5424be506c52391c7698a6d9554c0467176c2b35bdebea45a315daf82c5a1",
-      "scenario": "深色下查看消费趋势"
+      "path": "video-claw/pr-1140/refund-scatter-dark-30.png",
+      "sha256": "d9c447417286406c5c3c57563bf39cd1407c912bfe7514c27e062059fa861430",
+      "scenario": "深色主题的白色退款散点"
     },
     {
-      "path": "video-claw/pr-1140/trend-narrow-30.png",
-      "sha256": "7972f43960e61528334502b768bc82ffd9a4f8addb8525934238c407aca107e2",
+      "path": "video-claw/pr-1140/refund-scatter-narrow-30.png",
+      "sha256": "035ec37092b3dc655d09bdcbfdb40fba241600a3667d76d8945c18fcc453c783",
       "scenario": "窄屏展开消费趋势"
     },
     {
-      "path": "video-claw/pr-1140/trend-interactions.gif",
-      "sha256": "2ef62664160a9040a8c09cabafb0d22d868c0cbc6a59deccd2d9fc245d130f49",
-      "scenario": "浅色下查看并操作消费趋势"
+      "path": "video-claw/pr-1140/refund-scatter-interactions.gif",
+      "sha256": "2b06dfc4a82c274048a20ce0bf6ec097324df7c0ba9dbfe21407b46d47b20e93",
+      "scenario": "浅色消费趋势、悬停金额和周期切换"
     }
   ]
 }
