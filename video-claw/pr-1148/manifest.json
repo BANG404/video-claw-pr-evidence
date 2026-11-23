@@ -1,0 +1,31 @@
+{
+  "sourceCommit": "1d6051be240608c8f7395c23e726a8bf29c38eb2",
+  "pr": 1148,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1148/dark-sd2-video.png",
+      "sha256": "759d5476398b6d10e09f7a4d8870070a83e1b49b19f0323cafbb58f9ca5cd083",
+      "scenario": "桌面网格点击预览和播放"
+    },
+    {
+      "path": "video-claw/pr-1148/light-sd2-video.png",
+      "sha256": "773a4dac14930f878fe71f33c94408b82b3afefea414372f625b8b1c4fede155",
+      "scenario": "桌面网格点击预览和播放"
+    },
+    {
+      "path": "video-claw/pr-1148/dark-sd2-compact.png",
+      "sha256": "75d43428f0bd84797b95d7533b6f61a6a29e3fa3e3a0b590865484268464a328",
+      "scenario": "矮窗口列表键盘打开和关闭"
+    },
+    {
+      "path": "video-claw/pr-1148/light-sd2-compact.png",
+      "sha256": "ef5bac323647a4838d4194985eb6e743e61c8221f8542055745f3d4073841e88",
+      "scenario": "矮窗口列表键盘打开和关闭"
+    },
+    {
+      "path": "video-claw/pr-1148/sd2-preview.gif",
+      "sha256": "3e5bcef4d339f7b80182d566d5b85ddbf2cab5ed24c536ece44c413f47560c0c",
+      "scenario": "桌面网格点击预览和播放"
+    }
+  ]
+}
