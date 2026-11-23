@@ -1,0 +1,31 @@
+{
+  "sourceCommit": "a683fd45b99ee5f1c48e22acb60af8b1765ddf2a",
+  "pr": 1153,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1153/folder-session-2-publication-details.png",
+      "sha256": "075a2e234eaf50b9220e4aa3428a4fd26d9cd3c62d692bcfbf4cb26c50e1b132",
+      "scenario": "同项目发布记录直达原对话"
+    },
+    {
+      "path": "video-claw/pr-1153/folder-session-2-original-conversation.png",
+      "sha256": "ef9f55210946cef3d2c4f0f03280b59c334e776a9f2c7c7ce9c35bd1836d92e2",
+      "scenario": "同项目发布记录直达原对话"
+    },
+    {
+      "path": "video-claw/pr-1153/navigation-creation-publication-details.png",
+      "sha256": "b899a3a3f9472feb8d3ef4ff78ac4f98619932afe69a62f729266f8f645376f5",
+      "scenario": "跨项目发布记录直达原对话"
+    },
+    {
+      "path": "video-claw/pr-1153/navigation-creation-original-conversation.png",
+      "sha256": "258324fe8a351f94be8be161bb6742f83089ee29ebeb3d397b98626fedfec062",
+      "scenario": "跨项目发布记录直达原对话"
+    },
+    {
+      "path": "video-claw/pr-1153/publication-original-conversation.gif",
+      "sha256": "847221a72ffe2e32f4e7cf3ba00a8c0718a65fca2bcd18f91b59176ec02b702a",
+      "scenario": "发布历史跳转及返回列表"
+    }
+  ]
+}
