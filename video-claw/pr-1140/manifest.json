@@ -1,0 +1,26 @@
+{
+  "sourceCommit": "ba68ec7fd1e72ad89c6d39145fbcf417a7975a40",
+  "pr": 1140,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1140/trend-light-30.png",
+      "sha256": "6e784b028ba974d35339ae454ada746500c164074edef6b8f08ec1e77cfcb893",
+      "scenario": "浅色下查看并操作消费趋势"
+    },
+    {
+      "path": "video-claw/pr-1140/trend-dark-30.png",
+      "sha256": "14b5424be506c52391c7698a6d9554c0467176c2b35bdebea45a315daf82c5a1",
+      "scenario": "深色下查看消费趋势"
+    },
+    {
+      "path": "video-claw/pr-1140/trend-narrow-30.png",
+      "sha256": "7972f43960e61528334502b768bc82ffd9a4f8addb8525934238c407aca107e2",
+      "scenario": "窄屏展开消费趋势"
+    },
+    {
+      "path": "video-claw/pr-1140/trend-interactions.gif",
+      "sha256": "2ef62664160a9040a8c09cabafb0d22d868c0cbc6a59deccd2d9fc245d130f49",
+      "scenario": "浅色下查看并操作消费趋势"
+    }
+  ]
+}
