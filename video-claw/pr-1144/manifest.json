@@ -1,0 +1,31 @@
+{
+  "sourceCommit": "da7d04872243944392e64fd93d89871d66acac64",
+  "pr": 1144,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1144/summary-dark-30.png",
+      "sha256": "d11aa253a1f76cf327d9ae0dd8b8d1a2a7a0059ebb65954493ef8a08f8832c6d",
+      "scenario": "桌面深色主题下对齐四项摘要"
+    },
+    {
+      "path": "video-claw/pr-1144/summary-light-30.png",
+      "sha256": "02ffa1c4137a3905de10659b536e99ef76234b44cd6aa7c6b651414828d03857",
+      "scenario": "桌面浅色主题下显示六位小数"
+    },
+    {
+      "path": "video-claw/pr-1144/summary-dark-narrow.png",
+      "sha256": "12d7b396eeeae53bb38e12c9a18e812d5ff50a5a801e5c7c112748333ab81e12",
+      "scenario": "390px 窗口中的两列摘要"
+    },
+    {
+      "path": "video-claw/pr-1144/summary-light-375x667.png",
+      "sha256": "661e94c1b3f38493c6df9eb29627b28da4d0a5198ef42b28de05572d54e3cf39",
+      "scenario": "375×667 短窗口保留消费记录"
+    },
+    {
+      "path": "video-claw/pr-1144/summary-periods.gif",
+      "sha256": "83ef31696e836fcb6053d7e32e945d7ab210695c302bf6f55703676a7d9f26e6",
+      "scenario": "切换 7／30／90 天并缩放窗口"
+    }
+  ]
+}
