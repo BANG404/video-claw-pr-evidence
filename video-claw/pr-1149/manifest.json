@@ -1,0 +1,51 @@
+{
+  "sourceCommit": "a2ef77288b709c57cdbe305aff15272e5f60472a",
+  "pr": 1149,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1149/dark-first-open-loading.png",
+      "sha256": "1bf955e45be06f7a9abe455e3f79b2211a7cd09a96bd3a11f62947b08254210e",
+      "scenario": "dark first-open"
+    },
+    {
+      "path": "video-claw/pr-1149/dark-first-open-frame.png",
+      "sha256": "24ed516d2ac21efbca5820809f4f2f8fdfcd30f8f35bcb010a99f18c746ba99f",
+      "scenario": "dark first-open"
+    },
+    {
+      "path": "video-claw/pr-1149/dark-reopen-loading.png",
+      "sha256": "988eb17eb6093e8904116afca86062cf857e4ea60e86efc94b2dbb13317bdba2",
+      "scenario": "dark reopen"
+    },
+    {
+      "path": "video-claw/pr-1149/dark-reopen-frame.png",
+      "sha256": "377a4b1eaa36c470f1696b547b377e7647f8e82c903b980e4d6c39889463e79a",
+      "scenario": "dark reopen"
+    },
+    {
+      "path": "video-claw/pr-1149/light-first-open-loading.png",
+      "sha256": "b7600fc9c0f7b50c0078f7ac57a508ca1ff9276072dfbfb3483f7e048269a513",
+      "scenario": "light first-open"
+    },
+    {
+      "path": "video-claw/pr-1149/light-first-open-frame.png",
+      "sha256": "deaf3aca62af723fa1c2db9c5187c34e0b38ed6d0844fbaf430aafeaf561c196",
+      "scenario": "light first-open"
+    },
+    {
+      "path": "video-claw/pr-1149/light-reopen-loading.png",
+      "sha256": "3a6e90a04a1f8aef9bc3c34ca4f99e87b60a6f79de87d70e62f44a12d399b585",
+      "scenario": "light reopen"
+    },
+    {
+      "path": "video-claw/pr-1149/light-reopen-frame.png",
+      "sha256": "89c7f5857c5c6f8ddf81b61378e4623a19fd2d8d661296c01644548057e88d1a",
+      "scenario": "light reopen"
+    },
+    {
+      "path": "video-claw/pr-1149/materials-preview.gif",
+      "sha256": "5c64b22803b4e0dd1ee0ddc16317cef65230de590770d141c8173301584e5270",
+      "scenario": "普通素材视频预览首开、播放、关闭和重开"
+    }
+  ]
+}
