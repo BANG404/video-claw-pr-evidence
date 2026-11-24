@@ -1,0 +1,36 @@
+{
+  "sourceCommit": "f9873d5d249a641e3ed877084d237eb9f68e74f5",
+  "pr": 1157,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1157/01-open-panel.png",
+      "sha256": "dd70bf15d7f1551188cde605e4ccccde78bdef28ab0914530e895b187b8ccf8f",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    },
+    {
+      "path": "video-claw/pr-1157/02-hover-tooltip.png",
+      "sha256": "1ce4e259ee2b807e9450de077c1cabe1713e4636ecb708df7c96b939dbe963ea",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    },
+    {
+      "path": "video-claw/pr-1157/03-keyboard-tooltip.png",
+      "sha256": "5144baabfde19e1d64567fe6d2a00f4d72d7a15ddc4b811beae3489078d2c426",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    },
+    {
+      "path": "video-claw/pr-1157/04-pending-cancel.png",
+      "sha256": "f0e3e9b9413061300ec0ac054562986742cd99584c40c2db3ea04b87b72cd19e",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    },
+    {
+      "path": "video-claw/pr-1157/05-cancel-complete.png",
+      "sha256": "1e39f99a2e798850bbbbda09da5f91fb143f2ae7ca33ac0a9975ec30f8064487",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    },
+    {
+      "path": "video-claw/pr-1157/runtime-center-interaction.gif",
+      "sha256": "d7ce6716f363d1a952faa9bd344627ba049a1c5ee7230d5de35c861d837971b2",
+      "scenario": "鼠标悬停、键盘聚焦与单项取消"
+    }
+  ]
+}
