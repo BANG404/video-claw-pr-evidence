@@ -1,0 +1,36 @@
+{
+  "sourceCommit": "9fa2b79c759f0f8477182f02a684b69b8c54712f",
+  "pr": 1155,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1155/ikxl90-output-only.png",
+      "sha256": "de11b3a8fca631b19d7f099d44e9d4b09d09e74092ea3212c40d8e5e7b622212",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    },
+    {
+      "path": "video-claw/pr-1155/ikxl90-mixed-references.png",
+      "sha256": "bef01c7668c0d3047fdfb6fa34f91d02a01f39014eb188c1dbb969974695b284",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    },
+    {
+      "path": "video-claw/pr-1155/ikxl90-loading-reference.png",
+      "sha256": "3921828b289a7c6dc77565b4d0b9681b3a4c03b9564f0dcc7ae146835e164521",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    },
+    {
+      "path": "video-claw/pr-1155/ikxl90-failed-reference.png",
+      "sha256": "87ae43484f3e1d094bd6bfc6e9c359b3fa03777d89fb75bf2b5f49f014173df4",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    },
+    {
+      "path": "video-claw/pr-1155/ikxl90-recovered-reference.png",
+      "sha256": "d22af112b2e351f19ff2ed7332bbf08352c0e43045833d7f31ea829f3d262baf",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    },
+    {
+      "path": "video-claw/pr-1155/ikxl90-detail.gif",
+      "sha256": "85cb5143e5064177a50ef5ba65cf740c71899be8b3c0f8a00c0ca225a6be92d0",
+      "scenario": "镜头详情的参考图加载、失败和原位重试"
+    }
+  ]
+}
