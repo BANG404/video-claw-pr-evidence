@@ -1,0 +1,26 @@
+{
+  "sourceCommit": "210a29bb5ec6d1d5bab19a306a8fa819e640411c",
+  "pr": 1172,
+  "artifacts": [
+    {
+      "path": "video-claw/pr-1172/seedance-onboarding-methods.png",
+      "sha256": "1ca84437d5c1916f9b71f144ce52a9a01ca305e46b95f4e80d2f310500983876",
+      "scenario": "第三方供应商（不带素材库）浏览器接入流程"
+    },
+    {
+      "path": "video-claw/pr-1172/seedance-platform-materials.png",
+      "sha256": "365ee19988082555e865f62fce662fe9ba73a7e6eac723ac970bafb40e43c478",
+      "scenario": "第三方供应商（不带素材库）浏览器接入流程"
+    },
+    {
+      "path": "video-claw/pr-1172/seedance-platform-probe.png",
+      "sha256": "e52928ce0e2847c5169ce6afd3c10950bcee12baeed32754e088d9633b000f8f",
+      "scenario": "第三方供应商（不带素材库）浏览器接入流程"
+    },
+    {
+      "path": "video-claw/pr-1172/seedance-source-url-onboarding.gif",
+      "sha256": "50b6f69b02257fcb4e413920a3dc0a990f4d8d8e1b744d73f54427853da062e6",
+      "scenario": "第三方供应商（不带素材库）浏览器接入流程"
+    }
+  ]
+}
